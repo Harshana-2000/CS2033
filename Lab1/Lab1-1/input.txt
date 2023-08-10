@@ -1,0 +1,5 @@
+To,be,or,to,be,that,is,not,the
+1 3 not
+2 -1 question
+3 -3
+0
